@@ -18,5 +18,6 @@ The experiment demonstrates how to:
 
 ## ▶️ How to Run
 Ensure all `.m` files are in the same directory, then run:run_experiment.m
-
+![Result](eth_1.png)
 ![Output Matching Result](update.png)
+
