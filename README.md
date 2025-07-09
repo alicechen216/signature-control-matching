@@ -17,8 +17,6 @@ The experiment demonstrates how to:
 - `optimization_objective.m` – Cost function for `fmincon`.
 
 ## ▶️ How to Run
-Ensure all `.m` files are in the same directory, then run:
+Ensure all `.m` files are in the same directory, then run:run_experiment.m
 
-```matlab
-run_experiment
 ![Output Matching Result](update.png)
