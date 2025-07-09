@@ -21,3 +21,4 @@ Ensure all `.m` files are in the same directory, then run:
 
 ```matlab
 run_experiment
+![Output Matching Result](update.png)
